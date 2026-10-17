@@ -1,0 +1,12 @@
+●GitHub and GitLab
+●Remote repositories
+●clone, push, pull, fetch
+●Pull requests / merge requests
+●Code review
+●Repository collaboration practices	Demonstrate how Git platforms support collaborative development, code review, and controlled source-code management.
+●Continuous Integration concepts
+●Purpose and benefits of CI
+●CI workflow
+●Source code → Build → Test → Quality Gate
+●Automated builds and testing
+●CI feedback loop	Explain the principles, workflow, and benefits of Continuous Integration in DevOps.
